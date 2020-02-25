@@ -1,3 +1,2 @@
-This repo was create for interviewing purposes to visit the original link
-Please see:
+This repo was create for interviewing purposes. For more info visit:
 https://github.com/polycade/challenge-git
